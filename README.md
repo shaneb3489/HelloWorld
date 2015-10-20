@@ -2,4 +2,4 @@
 Let's Get Started Walkthrough
 -----------------------------
 
-Creating the HelloWolrd repository to get an understanding of GitHub.
+Creating the HelloWorld repository to get an understanding of GitHub.
